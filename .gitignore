@@ -1,1 +1,4 @@
-pdf.js/
+pdf.js/build/pdf.js.map
+pdf.js/build/pdf.sandbox.js
+pdf.js/build/pdf.sandbox.js.map
+pdf.js/build/pdf.worker.js.map
